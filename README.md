@@ -1,5 +1,5 @@
 # GTA V Music Event Player
-![Image Not Available](https://doc-0s-14-docs.googleusercontent.com/docs/securesc/lc178i47102o3cl3e6ln6uksoocov8kd/o5ing17djdehbrnouceqnbmpu9pu6joc/1639446750000/14797329522346511367/14797329522346511367/1E2Eaq2Udh6x54KhEn7H7-DYO4qGcO00m?e=view&authuser=0&nonce=tvvgujj1cd3ag&user=14797329522346511367&hash=1ti5ibs6jtojdjs0koi15roljjdq82r3)
+![Image Not Available](https://drive.google.com/uc?export=view&id=1E2Eaq2Udh6x54KhEn7H7-DYO4qGcO00m)
 GTA V Music Event Player is a script using Script Hook V .NET that can play any Music Event in GTA V. Music Events are what play background music for missions in GTA V. They are played by calling the native function AUDIO::TRIGGER_MUSIC_EVENT, however I could not find an easy way to test them out and see which one sounds good for your project, so I made a script that does if for you.
 ## Requirements 
 - [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
