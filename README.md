@@ -11,7 +11,7 @@ GTA V Music Event Player is a script using Script Hook V .NET that can play any 
 - Download the latest version of **Music Event Player.dll** from Releases and place it in your scripts folder
 - .pdb files are optional and are only used for giving error reports if the script were to crash
 ## Useage
-- Menu open keybind can be changed in the Music_Event_Player.ini
+- The key to open the menu if F3
 - Open menu and start and stop any Music Event you want
 - It is not required to stop the current event before playing another
 ## Notes
