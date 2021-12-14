@@ -18,4 +18,5 @@ GTA V Music Event Player is a script using Script Hook V .NET that can play any 
 - It is not required to stop the current event before playing another
 ## Notes
 - Some Music Events do not work, if an event is not functioning correctly there will be no music playing when you start it
+- It seems some Music Events require the "start" Music Event to be played before the other ones can be played
 - All music event names are sourced from [GTA V Data Dumps](https://github.com/DurtyFree/gta-v-data-dumps) by Alexander Schmid
