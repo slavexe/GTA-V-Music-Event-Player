@@ -8,7 +8,7 @@ GTA V Music Event Player is a script using Script Hook V .NET that can play any 
 ## Installation
 - Download and install the latest versions of Script Hook V, Script Hook V .NET, and LemonUI
 - Download the latest version of Json.NET and place **Newtonsoft.Json.dll** as well as **Newtonsoft.Json.xml** in your scripts folder
-- Download the latest version of **Music Event Player.dll** from Releases and place it in your scripts folder
+- Download the latest versions of **Music Event Player.dll**, **musicEventNames.json**, and **musicStopEventNames.json** from Releases and place them in your scripts folder
 - .pdb files are optional and are only used for giving error reports if the script were to crash
 ## Useage
 - The key to open the menu is F3
