@@ -1,3 +1,4 @@
+# This project has been improved and merged into [Slav Menu](https://github.com/slavexe/Slav-Menu)
 # GTA V Music Event Player
 ![Image Not Available](https://i.ibb.co/FsGfDq9/image-2021-12-13-194646.png)
 
